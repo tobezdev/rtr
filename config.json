@@ -1,0 +1,9 @@
+{
+	"screen_width": 600,
+	"screen_height": 600,
+	"background_color": "white",
+	"player_speed": 20,
+	"obstacle_speed": 5,
+	"initial_difficulty": 0.1,
+	"difficulty_increase_factor": 0.9
+}
